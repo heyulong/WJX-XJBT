@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         问卷星填nmd脚本
+// @name         问卷星AI做题
 // @description  问卷星AI自动填写，支持多厂商多线路AKIKEY做题
 // @author       HYL
 // @namespace    http://tampermonkey.net/
