@@ -1,7 +1,7 @@
 # 问卷星AI多厂商多线路做题
 问卷星AI多厂商多线路做题，多个API_KEY轮询，某个线路挂了下一个线路重试继续做题。
 
-1. Chrome 或 Edge 安装 **Tampermonkey 插件**
+1. Chrome 或 Edge 安装 **[Tampermonkey 插件](https://www.tampermonkey.net/)**
 2. 浏览器管理扩展程序启用 **开发者模式**
 3. Tampermonkey 插件详情  
    - 打开 **允许运行用户脚本**
